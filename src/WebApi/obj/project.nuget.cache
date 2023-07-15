@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "IMLDVnuHr6ZT0a/YzAlEi5JfsEyqFZT9Fr8E2M7kCpMFIXH4pqa9atF7tSiYHPDftRZqAPdV4ta6f9UrhldUeQ==",
+  "dgSpecHash": "d6+CFco8T4Z5o9d1W67h93sUPFd8PRihgya8UQbZz04awvDc9RmDkvTF0myY26/AMpICsL1lGlihx/HuzdMvfw==",
   "success": true,
-  "projectFilePath": "/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/WebApi/ControleFinancas.WebApi.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/WebApi/WebApi.csproj",
+  "expectedPackageFiles": [
+    "/home/vitor/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/vitor/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/vitor/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/vitor/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/vitor/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/vitor/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
   "logs": []
 }
