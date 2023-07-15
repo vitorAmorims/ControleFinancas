@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Application/ControleFinancas.Application.csproj": {}
+  },
+  "projects": {
+    "/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Application/ControleFinancas.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Application/ControleFinancas.Application.csproj",
+        "projectName": "ControleFinancas.Application",
+        "projectPath": "/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Application/ControleFinancas.Application.csproj",
+        "packagesPath": "/home/vitor/.nuget/packages/",
+        "outputPath": "/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vitor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "/home/vitor/.nuget/nuget_packages-210422-060709 (1)/": {},
+          "/home/vitor/.nuget/package": {},
+          "/home/vitor/.nuget/packages/": {},
+          "/home/vitor/.nuget/packages/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Domain/ControleFinancas.Domain.csproj": {
+                "projectPath": "/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Domain/ControleFinancas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Domain/ControleFinancas.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Domain/ControleFinancas.Domain.csproj",
+        "projectName": "ControleFinancas.Domain",
+        "projectPath": "/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Domain/ControleFinancas.Domain.csproj",
+        "packagesPath": "/home/vitor/.nuget/packages/",
+        "outputPath": "/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vitor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "/home/vitor/.nuget/nuget_packages-210422-060709 (1)/": {},
+          "/home/vitor/.nuget/package": {},
+          "/home/vitor/.nuget/packages/": {},
+          "/home/vitor/.nuget/packages/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
