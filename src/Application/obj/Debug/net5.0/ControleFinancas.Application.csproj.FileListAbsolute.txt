@@ -1,0 +1,15 @@
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Application/bin/Debug/net5.0/ControleFinancas.Application.deps.json
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Application/bin/Debug/net5.0/ControleFinancas.Application.dll
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Application/bin/Debug/net5.0/ControleFinancas.Application.pdb
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Application/bin/Debug/net5.0/ControleFinancas.Domain.dll
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Application/bin/Debug/net5.0/ControleFinancas.Domain.pdb
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Application/obj/Debug/net5.0/ControleFinancas.Application.csproj.AssemblyReference.cache
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Application/obj/Debug/net5.0/ControleFinancas.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Application/obj/Debug/net5.0/ControleFinancas.Application.AssemblyInfoInputs.cache
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Application/obj/Debug/net5.0/ControleFinancas.Application.AssemblyInfo.cs
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Application/obj/Debug/net5.0/ControleFinancas.Application.csproj.CoreCompileInputs.cache
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Application/obj/Debug/net5.0/ControleFinancas.Application.csproj.CopyComplete
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Application/obj/Debug/net5.0/ControleFinancas.Application.dll
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Application/obj/Debug/net5.0/refint/ControleFinancas.Application.dll
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Application/obj/Debug/net5.0/ControleFinancas.Application.pdb
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Application/obj/Debug/net5.0/ref/ControleFinancas.Application.dll

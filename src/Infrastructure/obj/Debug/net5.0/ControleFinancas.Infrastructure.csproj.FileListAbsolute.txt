@@ -1,0 +1,17 @@
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Infrastructure/bin/Debug/net5.0/ControleFinancas.Infrastructure.deps.json
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Infrastructure/bin/Debug/net5.0/ControleFinancas.Infrastructure.dll
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Infrastructure/bin/Debug/net5.0/ControleFinancas.Infrastructure.pdb
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Infrastructure/bin/Debug/net5.0/ControleFinancas.Application.dll
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Infrastructure/bin/Debug/net5.0/ControleFinancas.Domain.dll
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Infrastructure/bin/Debug/net5.0/ControleFinancas.Domain.pdb
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Infrastructure/bin/Debug/net5.0/ControleFinancas.Application.pdb
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Infrastructure/obj/Debug/net5.0/ControleFinancas.Infrastructure.csproj.AssemblyReference.cache
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Infrastructure/obj/Debug/net5.0/ControleFinancas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Infrastructure/obj/Debug/net5.0/ControleFinancas.Infrastructure.AssemblyInfoInputs.cache
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Infrastructure/obj/Debug/net5.0/ControleFinancas.Infrastructure.AssemblyInfo.cs
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Infrastructure/obj/Debug/net5.0/ControleFinancas.Infrastructure.csproj.CoreCompileInputs.cache
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Infrastructure/obj/Debug/net5.0/ControleFinancas.Infrastructure.csproj.CopyComplete
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Infrastructure/obj/Debug/net5.0/ControleFinancas.Infrastructure.dll
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Infrastructure/obj/Debug/net5.0/refint/ControleFinancas.Infrastructure.dll
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Infrastructure/obj/Debug/net5.0/ControleFinancas.Infrastructure.pdb
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Infrastructure/obj/Debug/net5.0/ref/ControleFinancas.Infrastructure.dll

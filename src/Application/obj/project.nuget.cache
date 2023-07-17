@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "SSMp1KJnGtUnkvkSegHIPbnmvvnpc6FqpixyzuEphM2ODJ0svtqWQCz28e0Uv2/wNGBx6ev9YvMrcC/MHUlrAA==",
+  "dgSpecHash": "fRdQLmSyifFMZ9ETtQ2zOB4lDTSYbZ98qr6YKkUazYLEOE5DjXhQjMJ2UQPhxtt/EqBQS0kg3ASId2x+ZZIZjw==",
   "success": true,
   "projectFilePath": "/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Application/ControleFinancas.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/vitor/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/home/vitor/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/home/vitor/.nuget/packages/mediatr/8.0.1/mediatr.8.0.1.nupkg.sha512",
+    "/home/vitor/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/8.0.0/mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
+    "/home/vitor/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/vitor/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/home/vitor/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/home/vitor/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/vitor/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

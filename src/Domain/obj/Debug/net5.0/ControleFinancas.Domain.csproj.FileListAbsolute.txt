@@ -1,0 +1,12 @@
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Domain/bin/Debug/net5.0/ControleFinancas.Domain.deps.json
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Domain/bin/Debug/net5.0/ControleFinancas.Domain.dll
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Domain/bin/Debug/net5.0/ControleFinancas.Domain.pdb
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Domain/obj/Debug/net5.0/ControleFinancas.Domain.csproj.AssemblyReference.cache
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Domain/obj/Debug/net5.0/ControleFinancas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Domain/obj/Debug/net5.0/ControleFinancas.Domain.AssemblyInfoInputs.cache
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Domain/obj/Debug/net5.0/ControleFinancas.Domain.AssemblyInfo.cs
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Domain/obj/Debug/net5.0/ControleFinancas.Domain.csproj.CoreCompileInputs.cache
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Domain/obj/Debug/net5.0/ControleFinancas.Domain.dll
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Domain/obj/Debug/net5.0/refint/ControleFinancas.Domain.dll
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Domain/obj/Debug/net5.0/ControleFinancas.Domain.pdb
+/home/vitor/Documents/csharp/Desafio/ControleFinancas/src/Domain/obj/Debug/net5.0/ref/ControleFinancas.Domain.dll
