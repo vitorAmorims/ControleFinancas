@@ -1,7 +1,9 @@
+using System;
 using System.Reflection;
 using Application.Mappings;
 using Domain.Interfaces;
 using Infrastructure.Repositories;
+using Infrastructure.Repositories.Receita;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -24,12 +26,12 @@ namespace WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
-            services.AddControllers();
             services.AddMediatR(Assembly.GetExecutingAssembly());
+            services.AddControllers();
             services.AddAutoMapper(typeof(MappingProfile).GetTypeInfo().Assembly);
 
-            services.AddScoped<IDespesaRepository, DespesaRepository>(); 
+            services.AddScoped<IDespesaRepository, DespesaRepository>();
+            services.AddScoped<IReceitaRepository, ReceitaRepository>(); 
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "WebApi", Version = "v1" });

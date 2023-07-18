@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace WebApi.Controllers
 {
-  [ApiController]
+    [ApiController]
     [Route("[controller]")]
     public class DespesasController : ControllerBase
     {
@@ -42,7 +42,6 @@ namespace WebApi.Controllers
             if (despesaCadastrada.response == false)
             {
                 return BadRequest("Despesa não registrada com sucesso!");
-
             }
             return Ok("Despesa registrada com sucesso!");
         }
